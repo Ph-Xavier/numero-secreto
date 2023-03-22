@@ -9,4 +9,5 @@ Curso na Alura - JavaScript: validações e reconhecimento de voz
 
 Aprendendo a utilizar funções build-in , aplicar reconhecimento de voz e validar projeto com JavaScript.
 
+<img src="numeroSecreto.png" alt="Número Secreto">
 </div>
