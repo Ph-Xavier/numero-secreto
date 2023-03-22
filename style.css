@@ -1,60 +1,60 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 
 :root {
-    --font-family:'Inter', sans-serif;
-    --bg-color:  #937DC2;
-    --primary-color: #FFE6F7;
+  --font-family: "Inter", sans-serif;
+  --bg-color: #937dc2;
+  --primary-color: #ffe6f7;
 }
 
 body {
-    background-color: var(--bg-color);
-    color: var(--primary-color);
+  background-color: var(--bg-color);
+  color: var(--primary-color);
 
-    min-height: 100vh;
+  min-height: 100vh;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 
-    margin: 0;
+  margin: 0;
 
-    font-family: var(--font-family);
+  font-family: var(--font-family);
 }
 
 h1 {
-    font-size: 6em;
+  font-size: 6em;
 }
 
 h2 {
-    font-size: 5em;
+  font-size: 5em;
 }
 
 h3 {
-    font-size: 3em;
-    margin-top: 20px;
+  font-size: 3em;
+  margin-top: 20px;
 }
 
 .mensagem {
-    font-size: 1.5rem;
-    margin-top: 40px;
+  font-size: 1.5rem;
+  margin-top: 40px;
 }
 
 .box {
-    border: 2px solid var(--primary-color);
+  border: 2px solid var(--primary-color);
 
-    display: inline-block;
-    font-size: 4em;
+  display: inline-block;
+  font-size: 4em;
 
-    padding: 10px;
-    margin: 20px;
+  padding: 10px;
+  margin: 20px;
 }
 
 .btn-jogar {
-    padding: 8px 15px;
-    border: 0;
-    background: var(--primary-color);
-    border-radius: 5px;
-    margin-top: 20px;
+  padding: 8px 15px;
+  border: 0;
+  background: var(--primary-color);
+  border-radius: 5px;
+  margin-top: 20px;
 }
